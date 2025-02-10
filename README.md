@@ -7,7 +7,7 @@
 - :runner: 36 years old
 - :mortar_board: Master's level engineering degree
 - Telegram: [@chee_zeek](https://t.me/chee_zeek)
-- my git usedcloud.ru
+- my git https://usedcloud.ru
 - my TG bot with AI https://t.me/cheezeek_ai_bot
 - me@cheezeek.ru
 
